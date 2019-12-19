@@ -1,6 +1,6 @@
 # BoilerTemplate
 Template for python code
-# GiffGaff Assignment - Karan Rewari
+# Assignment - Karan Rewari
 
 Please create a virtual environment in python 3 and install the requirements.txt file.
 
